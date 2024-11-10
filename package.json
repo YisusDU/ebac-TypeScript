@@ -2,7 +2,7 @@
   "name": "04-practice",
   "version": "1.0.0",
   "description": "Mi práctica del módulo es construir una app en TS que calcule la edad exacta, sólo tomando el argumento de la fecha de nacimiento del usuario",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "cd js && node app.js",
