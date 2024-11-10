@@ -1,0 +1,21 @@
+{
+  "name": "04-practice",
+  "version": "1.0.0",
+  "description": "Mi práctica del módulo es construir una app en TS que calcule la edad exacta, sólo tomando el argumento de la fecha de nacimiento del usuario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd js && node app.js",
+    "compile": "cd js && tsc app.ts"
+  },
+  "keywords": [
+    "typescritp",
+    "calculator",
+    "age"
+  ],
+  "author": "Jesús Díaz",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
